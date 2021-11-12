@@ -1,0 +1,7 @@
+usando o "touch name.txt" apenas cria;
+usando o "echo name.txt" apenas cria;
+usando o "cat name.txt" cria e pode começar anexar ao arquivo;
+usando o "vim name.txt" cria e pode começar editar o arquivo;
+
+
+
